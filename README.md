@@ -1,1 +1,3 @@
-# ethereum-movie-rating-app
+# Ethereum Movie Rating App #
+
+

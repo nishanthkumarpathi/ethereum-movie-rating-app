@@ -1,0 +1,12 @@
+nav {
+  background-color: #222;
+  margin: 0;
+  overflow: hidden;
+  color: white;
+  display: flex;
+}
+
+nav h1 {
+  line-height: 45px;
+  font-weight: 200;
+}
